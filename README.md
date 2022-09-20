@@ -6,7 +6,7 @@
 
 <img src= "ImagesReadme/original_screen.jpg" width="200">
 
-โดยจะมีการสร้าง class RecipesModel ทำการสร้างตัวแปรตามข้อมูลของ json เพื่อเป็น model สำหรับการเก็บค่าและแปลงข้อมูล Json
+โดยจะมีการสร้าง class RecipesModel ทำการสร้างตัวแปรตามข้อมูลของ json เพื่อเป็น model สำหรับการเก็บค่าและแปลงข้อมูล Json นอกจากข้อมูลตัวแปลตาม json แล้วได้ทำการเพิ่มตัวแปร favorite ไว้เพื่อจัดเก็บรายการโปรด
 
 <img src= "ImagesReadme/model.PNG" width="600">
 
